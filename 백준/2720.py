@@ -8,5 +8,4 @@ for i in range(T):
     c_5 = c//5; c = c-(c_5*5)
     c_1 = c//1; c = c-(c_1*1)
     print(c_25, c_10, c_5, c_1)
-    
-# https://www.acmicpc.net/problem/2720
+
