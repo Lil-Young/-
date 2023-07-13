@@ -10,5 +10,3 @@ for i in range(T):
 if True in _list :
     print(_list.index(True))
 else: print(-1)
-
-# https://www.acmicpc.net/problem/1547
