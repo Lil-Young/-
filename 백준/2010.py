@@ -7,4 +7,3 @@ for i in range(N):
     total += p
 print(total - (N-1))
 
-# https://www.acmicpc.net/problem/2010
