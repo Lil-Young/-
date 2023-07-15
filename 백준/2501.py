@@ -9,5 +9,3 @@ if len(_list) < K :
     print(0)
 else :
     print(_list[K-1])
-    
-# https://www.acmicpc.net/problem/2501
