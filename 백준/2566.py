@@ -12,5 +12,3 @@ for i in range(9) :
             print(max(total))
             print(i+1, j+1)
             break
-
-# https://www.acmicpc.net/problem/2566
