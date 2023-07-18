@@ -11,5 +11,3 @@ if len(num) == 0 :
 else : 
     print(sum(num))
     print(min(num))
-    
-# https://www.acmicpc.net/problem/2576
