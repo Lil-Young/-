@@ -9,5 +9,3 @@ while True :
         elif i == '0': num += 4
         else : num += 3
     print(num + len(word) + 1)
-
-# https://www.acmicpc.net/problem/1284
