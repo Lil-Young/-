@@ -10,5 +10,3 @@ for i in num :
 if sum(y_list) > sum(m_list) : print(f"M {sum(m_list)}")
 elif sum(y_list) < sum(m_list) : print(f"Y {sum(y_list)}")
 else : print(f"Y M {sum(m_list)}")
-
-# https://www.acmicpc.net/problem/1267
