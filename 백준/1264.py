@@ -12,5 +12,3 @@ while True:
     total += word.count('o')
     total += word.count('u')
     print(total)
-    
-# https://www.acmicpc.net/problem/1264
