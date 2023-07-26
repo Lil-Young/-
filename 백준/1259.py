@@ -6,5 +6,3 @@ while True:
     a = list(a)
     if a == list(reversed(a)): print("yes")
     else: print("no")
-
-# https://www.acmicpc.net/problem/1259
