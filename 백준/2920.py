@@ -6,5 +6,3 @@ num = list(map(int, input().split()))
 if num == asc_list: print("ascending")
 elif num == desc_list: print("descending")
 else: print("mixed")
-
-# https://www.acmicpc.net/problem/2920

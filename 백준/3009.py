@@ -9,5 +9,3 @@ for i in x_list:
 for j in y_list: 
     if y_list.count(j) == 1: b = j
 print(a, b)
-
-# https://www.acmicpc.net/problem/3009
