@@ -9,5 +9,3 @@ for i in range(T):
             total+=i
             _list.append(i)
     print(total, min(_list))
-        
-# https://www.acmicpc.net/problem/3058
