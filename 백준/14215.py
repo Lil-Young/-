@@ -5,5 +5,3 @@ if num[0] + num[1] > num[2]:
     print(sum(num))
 else:
     print((num[0] + num[1]) * 2 - 1)
-    
-# https://www.acmicpc.net/problem/14215
