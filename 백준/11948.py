@@ -18,5 +18,3 @@ for i in range(2) :
     for j in total_list[i] :
         total += j
 print(total)
-
-# https://www.acmicpc.net/problem/11948
