@@ -16,5 +16,3 @@ for i in result:
     result_list.append(i)
 for i in result_list:
     print(i[0], i[1])
-    
-# https://www.acmicpc.net/problem/11651
