@@ -8,5 +8,3 @@ for i in range(10001):
     if arr[i] != 0:
         for j in range(arr[i]):
             print(i)
-            
-# https://www.acmicpc.net/problem/10989

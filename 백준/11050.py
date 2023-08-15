@@ -8,5 +8,3 @@ def fat(n):
 n, k = map(int, input().split())
 result = fat(n)//(fat(n-k)*fat(k))
 print(result)
-
-# https://www.acmicpc.net/problem/11050
