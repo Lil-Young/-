@@ -8,5 +8,3 @@ elif m == 2 and d == 18:
     print("Special")
 else :
     print("After")
-    
-# https://www.acmicpc.net/problem/10768
