@@ -12,5 +12,3 @@ else:
         print(-1)
     else :
         print(''.join(n))
-        
-# https://www.acmicpc.net/problem/10610
