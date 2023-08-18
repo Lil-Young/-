@@ -10,5 +10,3 @@ if A < 0:
 else :
     time = (B-A)*E
 print(time)
-
-# https://www.acmicpc.net/problem/14470

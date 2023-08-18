@@ -11,5 +11,3 @@ if result == 0: print("A")
 elif result == 1: print("B")
 elif result == 2: print("C")
 else: print("*")
-
-# https://www.acmicpc.net/problem/13623

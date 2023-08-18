@@ -8,5 +8,3 @@ for i in sorted(_list):
     for j in i:
         print(j, end=' ')
     print()
-    
-# https://www.acmicpc.net/problem/11650
