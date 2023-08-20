@@ -10,5 +10,3 @@ for i in range(N):
 min_x, max_x = min(x_list), max(x_list)
 min_y, max_y = min(y_list), max(y_list)
 print((max_x-min_x) * (max_y-min_y))
-
-# https://www.acmicpc.net/problem/9063
