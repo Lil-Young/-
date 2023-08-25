@@ -6,5 +6,3 @@ for i in range(28):
     students.remove(a)
 print(students[0])
 print(students[1])
-
-# https://www.acmicpc.net/problem/5597
