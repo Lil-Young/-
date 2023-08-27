@@ -111,5 +111,3 @@ elif a == 8:
     print(ls[8])
 elif a == 9:
     print(ls[9])
-
-# https://www.acmicpc.net/problem/6916

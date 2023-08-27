@@ -12,3 +12,5 @@ for i in range(int(input())):
             num1, num2 = 0, 0
     if num1 != 0 or num2 !=0: print("NO")
     else: print("YES")
+
+# https://www.acmicpc.net/problem/9012
