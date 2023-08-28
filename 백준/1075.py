@@ -10,5 +10,3 @@ while True:
 result = result + F
 result = str(result)
 print(result[-2:])
-
-# https://www.acmicpc.net/problem/1075
