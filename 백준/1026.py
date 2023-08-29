@@ -9,5 +9,3 @@ total = 0
 for i in range(num):
     total += sort_a[i]*sort_b[i]
 print(total)
-
-# https://www.acmicpc.net/problem/1026
