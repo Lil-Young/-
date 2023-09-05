@@ -7,4 +7,3 @@ for i in range(N):
     for j in range(M):
         print(a[i][j]+b[i][j], end = ' ')
     print()
-# https://www.acmicpc.net/problem/2738
