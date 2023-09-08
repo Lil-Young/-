@@ -6,5 +6,3 @@ for i in word:
         print(i.lower(), end='')
     elif i.islower():
         print(i.upper(), end='')
-
-# https://www.acmicpc.net/problem/2744
