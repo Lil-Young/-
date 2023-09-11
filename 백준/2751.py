@@ -6,5 +6,3 @@ for i in range(int(input())):
     _list.append(a)
 for i in sorted(_list):
     print(i)
-
-# https://www.acmicpc.net/problem/2751
