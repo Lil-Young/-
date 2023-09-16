@@ -10,5 +10,3 @@ for i in b:
     total += dic[i]*(31**num)
     num+=1
 print(total)
-
-# https://www.acmicpc.net/problem/15829
