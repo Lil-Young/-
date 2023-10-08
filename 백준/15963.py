@@ -7,5 +7,3 @@ def equal(N, M):
         return 0
 N, M = map(int, input().split())
 print(equal(N, M))
-
-# https://www.acmicpc.net/problem/15963
