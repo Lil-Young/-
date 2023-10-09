@@ -9,6 +9,3 @@ else:
     if index == 0: print("Soongsil")
     elif index == 1: print("Korea")
     else: print("Hanyang")
-
-
-# https://www.acmicpc.net/problem/17388
