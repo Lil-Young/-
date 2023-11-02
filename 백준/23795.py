@@ -6,5 +6,3 @@ while True:
     if m == -1: break
     total+=m
 print(total)
-
-# https://www.acmicpc.net/problem/23795
