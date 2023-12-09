@@ -18,5 +18,3 @@ else:
             m -= R
         if m < init_m: m = init_m
     print(time)
-    
-# https://www.acmicpc.net/problem/1173
