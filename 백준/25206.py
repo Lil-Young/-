@@ -9,5 +9,3 @@ for i in range(20):
         a += float(info[1])*dic[info[2]]
         b += float(info[1])
 print("%.6f" %(a/b))
-
-# https://www.acmicpc.net/problem/25206
