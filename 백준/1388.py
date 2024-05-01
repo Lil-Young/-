@@ -29,5 +29,3 @@ for i in range(n):
         if dfs1(i, j) == True or dfs2(i, j) == True:
             result += 1
 print(result)
-print(graph)
-print(visited)
