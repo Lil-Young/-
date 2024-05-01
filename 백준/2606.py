@@ -6,7 +6,6 @@ for i in range(v): # 그래프 생성
     a,b=map(int,input().split())
     graph[a]+=[b] # a에 b 연결
     graph[b]+=[a] # b에 a 연결 -> 양방향
-print(graph)
 def dfs(v):
     visited[v] = True
     for i in graph[v]:
@@ -14,4 +13,3 @@ def dfs(v):
             dfs(i)
 dfs(1)
 print(visited.count(True)-1)
-print(visited)
