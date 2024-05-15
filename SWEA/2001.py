@@ -10,10 +10,15 @@ for test_case in range(1, T + 1):
     result = 0
     limit = n-m
     x, y = 0, 0
-    total = 0
-    for i in range(m):
-        for j in range(m):
-            total += arr[i][j]
-    if total > result:
-        result = total
-    if 
+    while x <= limit:
+        total = 0
+        for i in range(x, m+x):
+            for j in range(y, m+y):
+                total += arr[i][j]
+        if total > result:
+            result = total
+        y+=1
+        if y > limit:
+            x+=1
+            y = 0
+    print(f"#{test_case} {result}")
